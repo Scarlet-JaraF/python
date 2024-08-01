@@ -1,8 +1,9 @@
 class Auto:
     marca = ""
-    modelo = 0
+    modelo = 2004
     placa = ""
     
 taxi = Auto()
 
 print(taxi.modelo)
+
